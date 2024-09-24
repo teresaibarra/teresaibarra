@@ -10,7 +10,7 @@ I graduated from [Harvey Mudd](http://hmc.edu) with a B.S. in Computer Science i
 
 ⚡️ **Interested in:** building meaningful, intentional software; generative & interactive art
 
-🌱 **Currently learning:** [better programming skills](https://missing.csail.mit.edu); [best practices](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/); [practical user experience](https://rosenfeldmedia.com/books/the-user-experience-team-of-one/); the art of [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+🌱 **Currently learning:** [better programming skills](https://missing.csail.mit.edu); [best practices](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/); [practical user experience](https://rosenfeldmedia.com/books/the-user-experience-team-of-one/); the art of [Designing Data-Intensive Applications](https://dataintensive.net)
 
 🔨 **Currently working on:**
 - an interactive gallery installation set to open in Houston this fall
